@@ -1,0 +1,2 @@
+C:\Git\Arttys_Portfolio_WaR\WaR Artty's portfolio\WaR Artty's portfolio\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+C:\Git\Arttys_Portfolio_WaR\WaR Artty's portfolio\WaR Artty's portfolio\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
